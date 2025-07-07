@@ -25,7 +25,7 @@ interface AllergenReport {
 }
 
 // Using Groq API
-const GROQ_API_KEY = process.env.REACT_APP_GROQ_API_KEY || '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';
+const GROQ_API_KEY = process.env.REACT_APP_GROQ_API_KEY || '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';
 const GROQ_API_URL = 'https://api.groq.com/openai/v1/chat/completions';
 
 // Rate limiting
